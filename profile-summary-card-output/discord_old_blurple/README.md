@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/M3te0r/M3te0r/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
