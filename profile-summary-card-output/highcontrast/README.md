@@ -32,3 +32,33 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/M3te0r/M3te0r/master/profile-summary-card-output/highcontrast/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/M3te0r/M3te0r/master/profile-summary-card-output/highcontrast/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/M3te0r/M3te0r/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
+```
+
+    
